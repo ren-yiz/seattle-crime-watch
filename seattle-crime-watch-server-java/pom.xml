@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+
+  <groupId>org.example</groupId>
+  <artifactId>seattle-crime-watch-server-java</artifactId>
+  <version>1.0-SNAPSHOT</version>
+  <!-- https://mvnrepository.com/artifact/org.opendaylight.controller.thirdparty/org.apache.catalina.filters.CorsFilter -->
+  <dependencies>
+    <dependency>
+      <groupId>org.opendaylight.controller.thirdparty</groupId>
+      <artifactId>org.apache.catalina.filters.CorsFilter</artifactId>
+      <version>7.0.42</version>
+    </dependency>
+  </dependencies>
+
+</project>
